@@ -1,0 +1,34 @@
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe.config
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.pdb
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\bin\Debug\OpenTK.dll
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.dll
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\bin\Debug\OpenTK.pdb
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\bin\Debug\OpenTK.xml
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.xml
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csprojAssemblyReference.cache
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.Properties.Resources.resources
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.GenerateResource.cache
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CopyComplete
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.exe
+C:\Users\devops\Desktop\CATEDRA\EGC\new_labs\la 12\OpenTK_lab12\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.pdb
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe.config
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.exe
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\bin\Debug\OpenTK_winforms_z03.pdb
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\bin\Debug\OpenTK.dll
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.dll
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\bin\Debug\OpenTK.pdb
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\bin\Debug\OpenTK.xml
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\bin\Debug\OpenTK.GLControl.xml
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.AssemblyReference.cache
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.exe.config
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z02.Form1.resources
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.Properties.Resources.resources
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.GenerateResource.cache
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.csproj.CoreCompileInputs.cache
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\obj\Debug\OpenTK_w.B321130D.Up2Date
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.exe
+C:\Users\voicu\Downloads\Laborator EGC 10\OpenTK_lab12_v02\OpenTK_winforms_z03\obj\Debug\OpenTK_winforms_z03.pdb
